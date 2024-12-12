@@ -2,8 +2,8 @@
 # Objective: 
 This project focuses on creating a Trip Analysis Dashboard that provides detailed insights into trip data. The dashboard will help track key metrics such as total revenue, total passengers, total distance, and trip distribution across different locations and days.
 # DATASET
-<a href="https://github.com/RishabhLasunte/TRIP-ANALYSIS-DASHBOARD/blob/main/Location_Data.xlsx">location data</a>
-<a href="https://github.com/RishabhLasunte/TRIP-ANALYSIS-DASHBOARD/blob/main/Trip_Data.xlsx">trip data data</a>
+- <a href="https://github.com/RishabhLasunte/TRIP-ANALYSIS-DASHBOARD/blob/main/Location_Data.xlsx">location data</a>
+- <a href="https://github.com/RishabhLasunte/TRIP-ANALYSIS-DASHBOARD/blob/main/Trip_Data.xlsx">trip data data</a>
 # DASHBOARD
 <a href="https://github.com/RishabhLasunte/TRIP-ANALYSIS-DASHBOARD/blob/main/DASHBOARD.png">trip data data</a>
 # Answers Provided by the Trip Analysis Dashboard
